@@ -1,0 +1,68 @@
+[
+  {
+    "source_file": "رمپنا_۱۴۰۳.pdf",
+    "output_file": "extracted_text/رمپنا_۱۴۰۳.txt",
+    "page_count": 93,
+    "total_extracted_characters": 182967,
+    "pages_with_under_80_characters": [],
+    "likely_scanned_or_sparse": false,
+    "ocr_performed": false
+  },
+  {
+    "source_file": "شفن.pdf",
+    "output_file": "extracted_text/شفن.txt",
+    "page_count": 65,
+    "total_extracted_characters": 100001,
+    "pages_with_under_80_characters": [
+      1
+    ],
+    "likely_scanned_or_sparse": true,
+    "ocr_performed": false
+  },
+  {
+    "source_file": "شپنا_۱۴۰۳.pdf",
+    "output_file": "extracted_text/شپنا_۱۴۰۳.txt",
+    "page_count": 127,
+    "total_extracted_characters": 192424,
+    "pages_with_under_80_characters": [
+      6,
+      14,
+      66,
+      74,
+      127
+    ],
+    "likely_scanned_or_sparse": true,
+    "ocr_performed": false
+  },
+  {
+    "source_file": "فولاد_۱۴۰۳.pdf",
+    "output_file": "extracted_text/فولاد_۱۴۰۳.txt",
+    "page_count": 166,
+    "total_extracted_characters": 263123,
+    "pages_with_under_80_characters": [
+      6,
+      7,
+      24,
+      25,
+      50,
+      51,
+      96,
+      97,
+      126,
+      127,
+      136,
+      137
+    ],
+    "likely_scanned_or_sparse": true,
+    "ocr_performed": false
+  },
+  {
+    "source_file": "وبملت_۱۴۰۳.pdf",
+    "output_file": "extracted_text/وبملت_۱۴۰۳.txt",
+    "page_count": 107,
+    "total_extracted_characters": 220115,
+    "pages_with_under_80_characters": [],
+    "likely_scanned_or_sparse": false,
+    "ocr_performed": false
+  }
+]
