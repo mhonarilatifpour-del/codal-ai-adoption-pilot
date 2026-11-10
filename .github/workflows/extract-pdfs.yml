@@ -39,5 +39,6 @@ jobs:
             echo "No extracted text changes to commit."
           else
             git commit -m "Add extracted text from source PDFs"
+            git pull --rebase origin main
             git push
           fi
